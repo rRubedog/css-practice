@@ -1,20 +1,3 @@
-Skip to content
-rRubedog
-/
-css-practice
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-More
-css-practice/box.css
-@rRubedog
-rRubedog Add files via upload
- History
- 1 contributor
-59 lines (51 sloc)  1.04 KB
 .grid-boxes {
     display: flex;
     flex-direction: column;
